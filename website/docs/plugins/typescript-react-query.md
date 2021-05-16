@@ -128,7 +128,7 @@ generates:
       fetcher: graphql-request
 ```
 
-And the, while using, provide your `client` instance:
+And then while using the query, provide your `client` instance:
 
 ```ts
 import { useMyQuery } from './generated';
